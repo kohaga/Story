@@ -1,0 +1,6 @@
+secrets.txt
+
+#Comments
+
+#Remove Log file
+*.log
